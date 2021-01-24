@@ -15,4 +15,4 @@ winner= " "
 
 end
 end
-select_winner
+select_winner(passenger)
