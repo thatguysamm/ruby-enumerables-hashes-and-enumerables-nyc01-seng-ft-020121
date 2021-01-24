@@ -7,3 +7,4 @@ def select_winner(passengers)
   end
   winner
 end
+select_winner
