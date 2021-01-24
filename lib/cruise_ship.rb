@@ -15,4 +15,4 @@ winner= " "
 
 end
 end
-winner
+select_winner
